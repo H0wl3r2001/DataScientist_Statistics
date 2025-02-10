@@ -20,9 +20,11 @@ Descriptive statistics summarize and organize characteristics of a dataset.
 ### Measures of Central Tendency
 
 - **Mean** (Arithmetic Average):
+
   $$
   \bar{x} = \frac{\sum_{i=1}^{n} x_i}{n}
   $$
+
 - **Median**: The middle value when data is ordered.
 - **Mode**: The most frequently occurring value in the dataset.
 
@@ -132,7 +134,7 @@ Hypothesis testing evaluates claims about a population using sample data.
   $$
   \chi^2 = \sum \frac{(O - E)^2}{E}
   $$
-  
+
 
 ---
 
